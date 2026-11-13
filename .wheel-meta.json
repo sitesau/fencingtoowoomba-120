@@ -1,0 +1,22 @@
+{
+  "wheel_id": 885,
+  "structure": "umbrella",
+  "slug": "fencingtoowoomba-120",
+  "project": "fencing-contractors-toowoomba-local-options-compared-668d725db8",
+  "parent_t1_ref": "fencingtoowoomba-159",
+  "node_role": "feeder",
+  "money_target": "fencingtoowoomba.net.au",
+  "primary_kw": "fencing contractors toowoomba local options compared",
+  "intended_url": "https://aumedia.neocities.org/fencing-contractors-toowoomba-local-options-compared-668d725db8/",
+  "tier": "T2",
+  "writeback_nonce": "7bf509634c49aef0",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/fencingtoowoomba-159/",
+      "anchor": "fencing contractors toowoomba seasonal timing explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
